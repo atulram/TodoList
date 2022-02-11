@@ -1,0 +1,24 @@
+.title{
+    font-size: 1.5rem;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+.sub-title{
+    font-size: 1.2rem;
+    margin-right: 0.5em;
+}
+
+.ml-5{
+    margin-left: 0.5em;
+}
+
+.task-list{
+    display: flex;
+    margin-top: 1em;
+    padding: 1em;
+}
+
+.hide{
+    display: none;
+}

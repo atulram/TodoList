@@ -1,0 +1,19 @@
+.list{
+    width: 20vw;
+    height: 65vh;
+    border-style: solid;
+    padding: 1em;
+    margin-right: 0.5em;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    margin-bottom: 1em;
+}
+
+.task-container{
+    height: 60vh;
+    overflow: auto;
+}
